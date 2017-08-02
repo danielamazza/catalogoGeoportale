@@ -25,8 +25,9 @@
                     collapsed: true,
                     children: [
                         {
-                            image: "img/figgs.png"
-                        }
+							image: "img/figgs.png"
+							
+						}
                     ]
                 },
                 {
